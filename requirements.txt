@@ -1,0 +1,21 @@
+# Book Content Extractor Dependencies
+
+# PDF Extraction
+PyPDF2>=3.0.0
+pdfplumber>=0.10.0
+
+# EPUB Extraction  
+ebooklib>=0.18
+
+# ODT Extraction
+odfpy>=1.4.0
+
+# Text Processing
+python-dateutil>=2.8.0
+
+# CLI
+argparse # built-in
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
